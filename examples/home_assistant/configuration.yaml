@@ -1,0 +1,4 @@
+# Merge into configuration.yaml
+shell_command:
+  tv_cmd: >-
+    python3 /config/tvcmd.py {{ cmd }}

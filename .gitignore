@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+*.log
+.env
+secrets/
+runtime/
+*.key
+*.pem
+*.crt
+*.jsonl
+.yasmina_*
+.yasmina_*
+.DS_Store

@@ -1,0 +1,17 @@
+[Unit]
+Description=Yasmina Home Assistant Bridge
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/yasmina-home-assistant-bridge/bridge
+EnvironmentFile=/opt/yasmina-home-assistant-bridge/.env
+ExecStart=/usr/bin/python3 -u native_http.py
+Restart=on-failure
+RestartSec=3
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

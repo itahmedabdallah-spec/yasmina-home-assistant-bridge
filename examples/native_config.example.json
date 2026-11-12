@@ -1,0 +1,19 @@
+{
+  "actions_enabled": false,
+  "private_skill_verified": false,
+  "account_link_verified": false,
+  "keep_public_route": true,
+  "public_host": "home.example.com",
+  "exposed_devices": [
+    "yasmina-home-lights-v1"
+  ],
+  "purpose": "private_native_home_control_not_raw_speech",
+  "portal_configuration_verified": false,
+  "device_discovery_verified": false,
+  "speaker_account_verified": false,
+  "bundle_version": "1.0.0",
+  "bundle_published": false,
+  "bundle_active": false,
+  "additional_tts_enabled": false,
+  "history_polling_used": false
+}
