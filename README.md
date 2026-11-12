@@ -4,7 +4,7 @@
 
 A private smart-home bridge that connects Yasmina / Yango Smart Home to Home Assistant, with first-class support for multi-light control and Android TV actions.
 
-Status: v1.0.0 reference release. Built from a real home deployment, then sanitized for public use. No credentials, device IDs, private IPs or runtime databases are included.
+Status: v1.0.1 reference release. Built from a real home deployment, then sanitized for public use. No credentials, device IDs, private IPs or runtime databases are included.
 
 For the full anonymized journey from the original home setup to the final architecture, see **[the live sanitized case study](docs/LIVE_CASE_STUDY_AR.md)**.
 
@@ -92,4 +92,4 @@ Run:
 
 ## License
 
-No open-source license is granted yet. Public source availability does not grant permission to redistribute or create derivative works until the repository owner selects a license.
+Licensed under the **Apache License 2.0**. You may use, modify, distribute, and use the project commercially subject to the license terms. See [LICENSE](LICENSE) and [NOTICE](NOTICE).

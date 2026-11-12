@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.1 — 2026-11-12
+
+Licensing release. No runtime code changes.
+
+### Changed
+- Added the Apache License 2.0 so the community can legally use, modify, redistribute, and build on the project.
+- Added a NOTICE file with project attribution and the unofficial-project disclaimer.
+- Updated README licensing language.
+
 ## 1.0.0 — 2026-11-12
 
 Initial reference release.
